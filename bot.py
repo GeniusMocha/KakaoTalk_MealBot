@@ -108,7 +108,7 @@ def Keyboard():
  
 @app.route('/message', methods=['POST'])
 def Message():
-    // JSON 반환..
+    ## JSON 반환..
     dataReceive = request.get_json()
     content = dataReceive['content']
  
