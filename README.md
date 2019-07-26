@@ -1,4 +1,4 @@
-## kakaotalk-Meal-Bot_API
+## KakaoTalk_MealBot
 그냥 개발하였음.    
 
 사용 전
