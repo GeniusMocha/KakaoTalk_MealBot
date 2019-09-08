@@ -149,3 +149,7 @@ def Message():
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port = 5000)
+    
+    
+    
+## TODO: 나중에 아예 재구성 후 뜯어고치기.
